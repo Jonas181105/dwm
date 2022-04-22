@@ -1,3 +1,8 @@
+Configs for https://github.com/bakkeby/dwm-flexipatch
+
+
+
+
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
