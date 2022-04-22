@@ -1,0 +1,18 @@
+Shift + Meta + q -Quit dwm
+Meta + q -Kill selected client
+Meta + d -launch dmenu
+Meta + Tab -Switch to another client
+Meta + Enter -new terminal
+AltGr + q -@
+AltGr + 7 -{
+AltGr + 8 -[
+AltGr + 9 -]
+AltGr + 0 -}
+Meta + u -Powermenu (WIP)
+Meta + Print -Screenshotmenu (WIP)
+Meta + F1 -mute/unmute
+Meta + F2 -decrease volume
+Meta + F3 -increase volume
+
+
+
